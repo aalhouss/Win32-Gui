@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1646010364 source:c:\users\ahuss\new folder\prof_test1\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1645639160 c:\users\ahuss\new folder\prof_test1\resource.h
+
+1645639358 source:c:\users\ahuss\new folder\prof_test1\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
